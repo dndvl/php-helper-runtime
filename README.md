@@ -18,3 +18,6 @@ $result = Runtime::resultAll();
 `Runtime::stop($name = 'default'')` - stop timer and get result\
 `Runtime::result($name = 'default')` - get result\
 `Runtime::resultAll()` - get all results as array
+
+## Todo
+- `resultAll` return all time intervals and timer status
